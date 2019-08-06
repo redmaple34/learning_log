@@ -1,0 +1,2 @@
+This file ensures that learning_log/static/ will be added to the project.
+Django will collect static file and place them in learninhg_log/static/.
